@@ -24,6 +24,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+    <meta name="google-site-verification" content="wct9N6PPEePDcfiu5Q91PRaiX7oo6mvqp4AiTz74t4w" />
       <body
         className={`${outfit.className} ${ovo.className} antialiased`}
       >
